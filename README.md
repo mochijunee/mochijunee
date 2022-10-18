@@ -1,4 +1,4 @@
-### Hello, I'm Audrey!
+### Hello, I'm Audrey
 
 - BTHS'23 :bowtie: 
 - Web Dev :computer:
