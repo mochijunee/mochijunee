@@ -1,8 +1,14 @@
 ### Hello, I'm Audrey
 
-- BTHS'23 :bowtie: 
-- Web Dev :computer:
+BTHS'23 :bowtie: 
 
-:love_letter: have a nice day! :love_letter:
+
+I like...
+- Web Dev :computer:
+- Writing :pen:
+- Music :musical_score: :violin:
+- Video Games :keyboard:
+
+:love_letter: Have a nice day! :love_letter:
 
 
