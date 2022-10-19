@@ -2,9 +2,8 @@
 
 BTHS'23 :bowtie: 
 
-
 I like...
-- Web Dev :computer:
+- Web Dev :computer: 
 - Writing :pen:
 - Music :musical_score: :violin:
 - Video Games :keyboard:
