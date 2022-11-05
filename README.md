@@ -1,6 +1,5 @@
 ### Hello, I'm Audrey!
 I like...
-- Website Development
 - Writing 
 - Music 
 - Video Games 
